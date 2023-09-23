@@ -6,5 +6,5 @@ type Car struct {
 }
 
 func (c Car) Start() string {
-	return c.Name + "has been started"
+	return c.Name + " has been started"
 }

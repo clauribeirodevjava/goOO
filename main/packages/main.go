@@ -8,6 +8,6 @@ import (
 
 func main() {
 	car := car.Car{"Gol", "Black"}
-	fmt.Println(car.Start())
+	fmt.Println("coisa de louco", car.Start())
 
 }
